@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=70FF70&height=300&section=header&text=Welcome%20to%20my%20Github&fontSize=70&fontColor=FFFFFF&desc=Wontae%20Chang&descAlign=80&descAlignY=65&animation=fadeIn)
 
-# About myself👨🏻‍💻
+# About myself👨‍🎓
 - Name: Wontae Chang
 - School: Sogang Univ. (2016.02 - 2023.02)
 - Major: Mathematics & Computer Science
