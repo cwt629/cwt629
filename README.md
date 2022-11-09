@@ -2,6 +2,7 @@
 
 # About myself👨‍🎓
 - Name: Wontae Chang
+- School: Sogang Univ.(2016.02 - 2023.02)
 - Major: Mathematics & Computer Science
 
 # What I've done📖
