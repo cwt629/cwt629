@@ -4,6 +4,7 @@
 - Name: Wontae Chang
 - School: Sogang Univ.(2016.02 - 2023.02)
 - Major: Mathematics & Computer Science
+- Portfolio: [Click here](https://cream-beryllium-ed0.notion.site/Won-Tae-Chang-6d39a3e1bec748d1ae8c4486a5ba27ed)
 
 # What I've done📖
 - 네이버 부스트캠프 Web/Mobile 7기 - 챌린지 과정(웹풀스택) 수료
