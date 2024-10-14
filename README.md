@@ -4,13 +4,13 @@
 - Name: Wontae Chang
 - School: Sogang Univ.(2016.02 - 2023.02)
 - Major: Mathematics & Computer Science
-- Portfolio: [Click here](https://cwt629.notion.site/6d39a3e1bec748d1ae8c4486a5ba27ed?pvs=4)
 
 # What I've done📖
+- <b>2023.08 - 2024.03</b> 네이버클라우드캠프 데브옵스 3기 수료
+- <b>2022.10 - 2022.11</b> 우아한 테크코스(5기) 프리코스 진행(웹 프론트엔드 - javascript)
 - <b>2022.07 - 2022.08</b> 네이버 부스트캠프 Web/Mobile 7기 - 챌린지 과정(웹풀스택) 수료
 (수료증: [Click here](https://cwt629.notion.site/7-48dc1177c41b4c54b901704235272806?pvs=4))  
-- <b>2022.10 - 2022.11</b> 우아한 테크코스(5기) 프리코스 진행(웹 프론트엔드 - javascript)
-- <b>2023.08 - 2024.03</b> 네이버클라우드캠프 데브옵스 3기 수료
+
 
 [![Wontae's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwt629)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwt629&layout=compact)
