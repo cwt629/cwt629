@@ -6,7 +6,7 @@
 - Major: Mathematics & Computer Science
 
 # Careers
-- <b>2024.10.26 - 2025.04.26</b> 토스증권 - Frontend Developer Assistant(Internal)
+- <b>2024.10.28 - 2025.04.26</b> 토스증권 - Frontend Developer Assistant(Internal)
 
 # What I've done📖
 - <b>2023.08 - 2024.03</b> 네이버클라우드캠프 데브옵스 3기 수료
